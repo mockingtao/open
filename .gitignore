@@ -1,5 +1,4 @@
 .env
 .ipynb_checkpoints/
 
-.mp3
-.mp4
+data/
